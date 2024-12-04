@@ -1,0 +1,7 @@
+/target
+
+# Added for testing
+test_*
+
+# macOS
+.DS_Store
