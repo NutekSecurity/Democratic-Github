@@ -148,3 +148,8 @@ can decide what to do next. You have 7 days to vote, and if you don't vote, the 
 
 Windows, macOS, Linux, Android, iOS, Xcode extension, Visual Studio extension, Zed extension, VS Code/VS Codium extension,
 and (web app?) are available for Hash Smoke or you can use it from familiar console.
+
+## Testing (developer feature)
+
+You can create tests visible only to you, or specific users, and run them assuring your goals are met. Or
+use Hash Smoke Docker testing environment, and run tests in it.
