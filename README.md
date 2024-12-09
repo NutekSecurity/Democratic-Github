@@ -1,5 +1,7 @@
 # Hash Smoke
 
+![Project](project.jpeg)
+
 Keep track of your projects with Hash Smoke. No matter
 what file type you are working with, Hash Smoke will
 automatically detect the file type and provide you with
